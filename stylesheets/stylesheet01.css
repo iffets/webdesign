@@ -1,0 +1,4 @@
+ body {background-color: cornsilk;}
+        h1,h2, h3 {color: brown;}
+        p {color:burlywood;}
+a:hover {color:whitesmoke; background-color: brown; padding:5px}

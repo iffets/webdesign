@@ -1,0 +1,43 @@
+.box {
+    width: 300px;
+    height: 50px; 
+    float:left;
+    padding: 10px;
+    display:inline-block;
+    margin: 10px 10px;
+    text-align: center;
+    line-height: 50px;
+    
+}
+
+.boxblau2 {
+    background-color: blue;
+    border: 1px solid darkblue;
+    color: aqua;   
+    
+}
+
+.boxblau2:hover {
+    background-color: green;
+    
+}
+
+
+.boxrot2 {
+    background-color: red;
+    border: 1px solid darkred;
+    color: #7E0002;
+}
+
+.boxrot2:hover {
+    background: blue;
+}
+.boxgruen2 {
+    background-color: green;
+    border: 1px solid darkgreen;
+    color:#364D00;
+}
+
+.boxgruen2:hover {
+    background-color: red;
+}

@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    float: left;
+    padding: 10px;
+    height: 500px;
+    border: 8px solid
+}
+
+.boxblau2 {
+    background-color: blue;
+    width: 25%; 
+    border-color: darkblue;
+}
+
+.boxrot2 {
+    background-color: red;
+    width: 50%;
+    border-color: darkred;
+}
+
+.boxgruen2 {
+    background-color: green;
+    width: 25%;
+    border-color: darkgreen;
+}
+
+.img-left {
+    float: left;
+    margin-right: 10px;
+}
+
+.img-right {
+    float: right;
+    margin-left: 10px;
+}

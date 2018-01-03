@@ -1,0 +1,33 @@
+
+
+
+.boxblau2 {
+    background-color: peachpuff;
+    width: 100px;
+    height: 20px; 
+    border: 1px solid darkblue;
+    position: absolute;
+    top:200px;
+    right: 0px;
+}
+
+.boxrot2 {
+    background-color: sandybrown;
+    width: 100px;
+    height: 20px;
+    border: 1px solid darkred;
+    position: absolute;
+    top: 0px;
+  
+}
+
+img {
+    display: inline-block; 
+    height: 350px;
+    width: 500px;
+    margin: auto
+    
+}
+
+
+kastl

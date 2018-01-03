@@ -1,0 +1,53 @@
+
+.icon {
+    list-style: none;
+    list-style-image: url(../Bilder/bullet.png);
+}
+
+div input {
+    border: 5px;
+    border-color: cornflowerblue;
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+}
+div  {
+    text-align: center;
+
+}
+
+form {
+    width:500px;
+    margin:auto;
+}
+
+h1 {
+    color: darkkhaki;
+    text-align: center;
+    background-color: none;
+    
+}
+    
+input[type="text"] {
+    width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    background-color: lightsalmon;
+    text-align: right;
+}
+input[type="password"] {
+    width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    background-color: lightsalmon;
+}
+    
+input[type="text"]:focus {
+    background-color: lightblue;
+} 
+    
+input[type="submit"] {
+    width: 150px;
+    display: block;
+}
+    

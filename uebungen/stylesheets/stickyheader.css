@@ -1,0 +1,52 @@
+.adresszeile {
+    background-color: peachpuff;
+    width: 100%;
+    height: 20px; 
+    border: 1px solid darkblue;
+    position: fixed;
+}
+
+
+
+img {
+    display: inline-block; 
+    height: 350px;
+    width: 500px;
+    margin: auto;  
+}
+
+
+.box {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+}
+.box1 {
+    background: green; 
+    z-index: 4;
+    
+}
+
+
+.box2 {
+    background: yellow;
+    z-index: 3;
+    top: 25px;
+    left: 25px;
+}
+
+
+.box3 {
+    background: pink;
+    z-index: 2;
+    left: 50px;
+    
+}
+
+
+.box4 {
+    background: red;
+    z-index: 5;
+    top: -25px;
+    left: 25px;
+}

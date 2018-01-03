@@ -1,0 +1,47 @@
+.tooltip {
+    position: relative;
+}
+
+
+.tooltip span {
+    display:none;
+    color: red;
+    
+}
+
+.tooltip:hover span {
+    background-color: cornflowerblue;
+    padding: 10px;
+    position: absolute;
+    display: inline-block;
+    left: 0px;
+}
+    
+
+tr.gray td{
+    background-color: #000;
+}
+
+td,th {
+    padding:5px 40px;
+    color: grey;
+    text-align: center;
+}
+    
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+.hellgruen {
+    background-color: #A9C47F;
+}
+a:hover  {
+    background-color: pink;
+}
